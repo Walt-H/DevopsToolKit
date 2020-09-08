@@ -1,3 +1,5 @@
+This fork has been merged with the original project: https://github.com/sourcetoad/DevopsToolKit/commit/58804cba7d305d5779e5c92f5569cc9cd4c62778
+
 # Sourcetoad Internal Development Tools (SIDT)
 
 Sourcetoad Internal Development Tools includes a growing collection of tutorials
